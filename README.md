@@ -12,19 +12,11 @@ A customisable and lightweight digital watch
 ```
 https://www.python.org/downloads/windows/
 ```
-After installing python download the latest release of Digital Clock
-```
-
-```
 
 <h2>macOS</h2>
 
 ```
 https://www.python.org/downloads/macOS/
-```
-After installing python download the latest release of Digital Clock
-```
-
 ```
 
 <h2>Linux</h2>
@@ -32,7 +24,7 @@ After installing python download the latest release of Digital Clock
 ```
 sudo apt-get install python
 ```
-After installing python download the latest release of Digital Clock
-```
 
-```
+<h2>After installing python download the latest release of Digital Clock</h2>
+
+https://github.com/Nukecraft5419/DigitalClock/releases
