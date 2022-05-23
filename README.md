@@ -1,12 +1,10 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Nukecraft5419/DigitalClock/main/images/digital-clock-logo.png" width="20%">
-</p>
 
 # Digital Clock
 
 A customisable and lightweight digital watch
 
-<p align="center">
 <img src="https://raw.githubusercontent.com/Nukecraft5419/DigitalClock/main/images/digital-clock.png">
 </p>
 
@@ -33,3 +31,9 @@ sudo apt-get install python
 <h2>After installing python download the latest release of Digital Clock</h2>
 
 https://github.com/Nukecraft5419/DigitalClock/releases
+
+# License
+
+Digital Clock is open-sourced software licenced under the [MIT license][license].
+
+[license]: .github/LICENSE
