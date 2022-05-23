@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nukecraft5419/DigitalClock/main/images/digital-clock-logo.png" height='256px'>
+<img src="https://raw.githubusercontent.com/Nukecraft5419/DigitalClock/main/images/digital-clock-logo.png" height="256px">
 </p>
 
 # Digital Clock
