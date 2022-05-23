@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 <img src="https://raw.githubusercontent.com/Nukecraft5419/DigitalClock/main/images/digital-clock-logo.png" width="20%">
 
 # Digital Clock
@@ -6,7 +6,7 @@
 A customisable and lightweight digital watch
 
 <img src="https://raw.githubusercontent.com/Nukecraft5419/DigitalClock/main/images/digital-clock.png">
-</p>
+</div>
 
 # Modalities of use
 
