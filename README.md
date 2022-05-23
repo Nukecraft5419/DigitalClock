@@ -36,4 +36,4 @@ https://github.com/Nukecraft5419/DigitalClock/releases
 
 Digital Clock is open-sourced software licenced under the [MIT license][license].
 
-[license]: .github/LICENSE
+[license]: ./LICENSE
