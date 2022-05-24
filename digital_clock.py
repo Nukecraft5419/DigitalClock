@@ -6,6 +6,10 @@ root = Tk()
 root.title("Digital Clock")
 root.resizable(False, False)
 
+def raise_above_all():
+    root.attributes('-topmost', True)
+    window.update()
+    window.attributes('-topmost', False)
 
 def time():  # Digital Clock System
     string = strftime("%H:%M:%S %p")
