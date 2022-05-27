@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="digital-clock-Nukecraft5419",
+    name="digitalclock-Nukecraft5419",
     version=version,
     url="https://github.com/Nukecraft5419/Digital-Clock",
     license="MIT",
