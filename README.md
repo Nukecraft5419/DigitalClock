@@ -30,7 +30,8 @@ sudo apt-get install python
 
 <h2>After installing python download</h2>
 
-Installing Via GitHub
+<h3>Installing Via GitHub</h3>
+
 ```
 $ git clone https://github.com/Nukecraft5419/DigitalClock.git
 $ cd src/digital_clock
