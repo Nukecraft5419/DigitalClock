@@ -1,4 +1,4 @@
-from tkinter import Checkbutton, PhotoImage, StringVar, Tk, mainloop, messagebox
+from tkinter import Checkbutton, StringVar, Tk, mainloop, messagebox
 from time import strftime
 from tkinter.ttk import Button, Label
 import webbrowser
