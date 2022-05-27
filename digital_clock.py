@@ -7,8 +7,6 @@ import requests
 root = Tk()
 root.title("Digital Clock")
 root.resizable(False, False)
-icon = PhotoImage(file="icons/digital-clock-logo.png")
-root.iconphoto(True, icon)
 root.attributes("-topmost", True)
 
 
