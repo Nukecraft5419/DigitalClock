@@ -30,7 +30,7 @@ sudo apt-get install python
 
 <h2>After installing python download the latest release of Digital Clock</h2>
 
-https://github.com/Nukecraft5419/DigitalClock/releases
+https://github.com/Nukecraft5419/Digital-Clock/releases
 
 # License
 
