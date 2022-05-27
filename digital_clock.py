@@ -9,7 +9,6 @@ root.title("Digital Clock")
 root.resizable(False, False)
 root.attributes("-topmost", True)
 
-
 agreement = StringVar()
 
 url = f"https://github.com/Nukecraft5419/DigitalClock/releases/latest"
