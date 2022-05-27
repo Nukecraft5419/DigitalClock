@@ -28,9 +28,13 @@ https://www.python.org/downloads/macOS/
 sudo apt-get install python
 ```
 
-<h2>After installing python download the latest release of Digital Clock</h2>
+<h2>After installing python download</h2>
 
-https://github.com/Nukecraft5419/Digital-Clock/releases
+Installing Via GitHub
+```
+$ git clone https://github.com/Nukecraft5419/DigitalClock.git
+$ cd src/digital_clock
+```
 
 # License
 
