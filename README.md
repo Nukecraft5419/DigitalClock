@@ -41,4 +41,9 @@ $ cd src/digital_clock
 
 Digital Clock is an Open Source software under [MIT license][license].
 
+# Credits
+
+Icone da [Icons8][icons8].
+
 [license]: ./LICENSE
+[icons8]: https://icons8.com/
