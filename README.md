@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Nukecraft5419/DigitalClock/main/images/digital-clock-logo.png" width="20%">
+<img src="https://raw.githubusercontent.com/Nukecraft5419/DigitalClock/main/src/digital_clock/img/digital-clock-logo.png" width="20%">
 
 # Digital Clock
 
 A customisable and lightweight digital watch
 
-<img src="https://raw.githubusercontent.com/Nukecraft5419/DigitalClock/main/images/digital-clock.png">
+<img src="https://raw.githubusercontent.com/Nukecraft5419/DigitalClock/main/src/digital_clock/img/digital-clock.png">
 </div>
 
 # Modalities of use
